@@ -13,4 +13,4 @@
 - **Databases**: MySQL, PostgreSQL, MongoDB
 
 ### GitHub Stats
-![Saifuddin's GitHub stats](https://github-readme-stats.vercel.app/api?username=saifuddinphase3&show_icons=true&theme=radical)
+![saifuddinphase3's Stats](https://github-readme-stats.vercel.app/api?username=saifuddinphase3&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
